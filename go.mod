@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/refnode/wowchemy-widget-communities
 
-go 1.15
+go 1.16
